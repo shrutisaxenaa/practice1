@@ -10,6 +10,7 @@ public class prac1 {
 	}
 	public static void words() {
 		System.out.println("namastey");
+		
 	}
 
 }
